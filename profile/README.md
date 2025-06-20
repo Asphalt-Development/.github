@@ -1,7 +1,7 @@
 # Asphalt Development 🛤️
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1057028411903705089/1385490129354752010/ChatGPT_Image_20_jun_2025_00_20_59.png?ex=685641bc&is=6854f03c&hm=7155b5b8d46d918c35645123649be28141cef2a6a530046a062c18f1636e24a5&=&format=webp&quality=lossless&width=818&height=545" alt="Asphalt Development Banner" width="800">
+  <img src="https://media.discordapp.net/attachments/1057028411903705089/1385490129354752010/ChatGPT_Image_20_jun_2025_00_20_59.png?ex=685641bc&is=6854f03c&hm=7155b5b8d46d918c35645123649be28141cef2a6a530046a062c18f1636e24a5&=&format=webp&quality=lossless&width=818&height=545" alt="Asphalt Development Banner" width="500">
 </div>
 
 ## 🌟 Acerca de nosotros 
@@ -65,8 +65,8 @@ Gracias a nuestro increíble equipo de desarrolladores y a todos los usuarios qu
 ### 👨‍💻 Equipo de Asphalt Development
 
 - **Fundador**: [DevEmx](https://github.com/DevEmx)
-- **Desarrolladores**: [Nombres de los desarrolladores]
-- **Diseñadores**: [Nombres de los diseñadores]
+- **Desarrolladores**:
+- **Diseñadores**:
 
 ---
 
