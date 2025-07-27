@@ -1,7 +1,7 @@
 # Asphalt Development 🛤️
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1057028411903705089/1385490129354752010/ChatGPT_Image_20_jun_2025_00_20_59.png?ex=685641bc&is=6854f03c&hm=7155b5b8d46d918c35645123649be28141cef2a6a530046a062c18f1636e24a5&=&format=webp&quality=lossless&width=818&height=545" alt="Asphalt Development Banner" width="500">
+  <img src="https://media.discordapp.net/attachments/1057028411903705089/1385490129354752010/ChatGPT_Image_20_jun_2025_00_20_59.png?ex=6887b1fc&is=6886607c&hm=e5e0b5fa4d945459f5d2750fd58b128e10ae8900742384b10dfb28d00cd6762c&=&format=webp&quality=lossless&width=1028&height=685" alt="Asphalt Development Banner" width="500">
 </div>
 
 ## 🌟 Acerca de nosotros 
